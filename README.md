@@ -1,4 +1,12 @@
 # vue-blog
+## 打包上线到Netlify
+## 1.安装neitlify脚手架
+## 2.测试是否安装成功 netlify
+## 3.打包 netlify deploy
+## 4.打包路径 输入 dist
+## 5.输入 netlify deploy --prod 提交到服务器
+## 6.输入项目路径名称 输入 dist 就可以
+## 7.生成线上url地址
 
 ## Project setup
 ```
